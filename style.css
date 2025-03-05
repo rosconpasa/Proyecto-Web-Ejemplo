@@ -1,4 +1,5 @@
-/* Reset básico */
+
+
 * {
     margin: 0;
     padding: 0;
@@ -7,13 +8,13 @@
 
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(205, 169, 204);
+    background-color: rgb(119, 89, 118);
     color: white;
     line-height: 1.6;
     padding: 20px;
 }
 
-/* Encabezado */
+
 h1 {
     text-align: center;
     font-size: 2em;
@@ -22,7 +23,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-/* Párrafos */
+
 p {
     background-color: lightgreen;
     color: darkgreen;
@@ -32,7 +33,8 @@ p {
     margin-bottom: 15px;
 }
 
-/* Imágenes */
+
+
 img {
     border: 4px solid green;
     border-radius: 10px;
@@ -42,7 +44,7 @@ img {
     height: auto;
 }
 
-/* Código preformateado */
+
 pre {
     background-color: lightgreen;
     color: darkgreen;
@@ -53,7 +55,7 @@ pre {
     margin-top: 10px;
 }
 
-/* Contenedor principal */
+
 .container {
     max-width: 800px;
     margin: 0 auto;
